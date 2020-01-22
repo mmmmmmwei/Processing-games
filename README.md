@@ -1,6 +1,6 @@
 # Processing-games
 Few games created by using Processing programming language.
-Processing is integrated with Arduino, and the games can be controlled by using Arduino components.
+Processing is integrated with Arduino, and the games can be controlled by using Arduino components (ultrasonic sensor in this case).
 The controller can be customised.
 
 Download Processing from https://processing.org/ .
